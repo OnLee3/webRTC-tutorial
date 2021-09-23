@@ -1,0 +1,11 @@
+{
+  "name": "webrtc-tutorial",
+  "version": "1.0.0",
+  "description": "WebRTC tutorial",
+  "main": "index.js",
+  "scripts": {
+    "dev": "server.js"
+  },
+  "author": "LEON",
+  "license": "MIT"
+}
